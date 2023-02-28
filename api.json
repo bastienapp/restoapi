@@ -1,20 +1,22 @@
-{
-      "id": 1,
-      "name": "Tacos",
-      "price": 10.25,
-    },
-    {
-      "id": 2,
-      "name": "Burger",
-      "price": 7.5,
-    },
-    {
-      "id": 3,
-      "name": "Pizza",
-      "price": 18.0,
-    },
-    {
-      "id": 4,
-      "name": "Bobun",
-      "price": 7.99,
-    }
+[
+  {
+    "id": 1,
+    "name": "Tacos",
+    "price": 10.25
+  },
+  {
+    "id": 2,
+    "name": "Burger",
+    "price": 7.5
+  },
+  {
+    "id": 3,
+    "name": "Pizza",
+    "price": 18.0
+  },
+  {
+    "id": 4,
+    "name": "Bobun",
+    "price": 7.99
+  }
+]
